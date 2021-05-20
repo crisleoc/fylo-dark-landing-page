@@ -51,6 +51,6 @@ With the following challenge i could practice more about semantic html5, CSS (Fl
 
 ## Author
 
-- [Website](https://www.crisleoco2004.github.io)
+- [Website](https://crisleoco2004.github.io/)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/Crisleoco2004)
 - [Twitter](https://www.twitter.com/crisleooc)
