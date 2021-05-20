@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL:](https://www.frontendmentor.io/solutions/fylo-dark-with-grid-flexbox-and-bem-j3szE621E)
+- [Live Site URL:](https://crisleoco2004.github.io/fylo-dark-landing-page/)
 
 ## My process
 
@@ -51,6 +51,6 @@ With the following challenge i could practice more about semantic html5, CSS (Fl
 
 ## Author
 
-- Website - [Add your name here](https://www.crisleoco2004.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Crisleoco2004)
-- Twitter - [@yourusername](https://www.twitter.com/crisleooc)
+- [Website](https://www.crisleoco2004.github.io)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/Crisleoco2004)
+- [Twitter](https://www.twitter.com/crisleooc)
